@@ -4,7 +4,7 @@
 - Push det opp i et eget repo på din github
 - Hvis du gjør det privat gi meg tilgang
 ## sjekkliste
-- [ ] Få prosjektet opp i git og gi tilgang til mathjert@gmail.com
+- [ ] Få prosjektet opp i git og gi tilgang til meg
 - [ ] Start applikasjonen
 - [ ] Implementer GET-endepunktene
   - [ ] GET /students
